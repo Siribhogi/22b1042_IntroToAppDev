@@ -1,16 +1,8 @@
-# assign_3
+# Budget Tracker
 
-A new Flutter project.
+For the week-3, I have done back-end development for this app. For week-4, I have added some good features:
+- Edit, slide and delete buttons for each category
+- Pie-chart distribution for all the expenses
+- Forgot Password option
+- Exporting the categories and corresponding price information as a pdf
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
